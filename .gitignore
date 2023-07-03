@@ -3,3 +3,5 @@ venv/
 .idea/
 .vscode/
 .venv/
+target/
+node_modules/
